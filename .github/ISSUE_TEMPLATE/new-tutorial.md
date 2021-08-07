@@ -2,19 +2,15 @@
 name: New tutorial
 about: New tutorial for the website
 title: ''
-labels: ''
+labels: New Tutorial
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What is your tutorial about?**
+My tutorial is about _______. The project level is _______________ <!-- Write Basic, medium, advanced, or super--> and the link to the project is ___________. Also, my scratch profile is ____________.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+It will be appreciated if my project will be added to the website.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Thanks
+<Your name here>
