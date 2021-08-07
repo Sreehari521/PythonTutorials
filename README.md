@@ -7,3 +7,6 @@ To do so, go to the issues tab. After clicking on "New issue", select "New tutor
 
 # How to report a bug
 To do so, go to the issues tab. After clicking on "New issue", select "Bug report". Fill out the blanks, and submit the issue. If we can find the bug, it will be fixed in the next release. After that, the issue is closed 
+
+
+If you know about how to make a proper pull request, you can make one in this repository. After that, wait for it to be merged. Make sure to create an issue before that
