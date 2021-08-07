@@ -17,4 +17,21 @@ body {
 
 .content {
     padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content>div{
+    flex: 1 1 150px;
+    height: 450px;
+}
+
+.project_thumbnail{
+    height: 200px;
+    width: 250px;
+}
+
+.project{
+    width: fit-content;
+    height: fit-content;
 }
