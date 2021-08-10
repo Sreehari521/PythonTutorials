@@ -14,3 +14,5 @@ If you know about how to make a proper pull request, you can make one in this re
 # Chat bases
 
 If you are a fan, feel free to join the <a href="https://discord.gg/nGasHWn7bF">fan discord</a>. If you have previously contributed to Educational Websites and any way, join the <a href="https://discord.gg/H3RcszvGpP">development discord</a>
+
+You can also do to the discussions tab and talk there
