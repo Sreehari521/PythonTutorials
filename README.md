@@ -9,4 +9,8 @@ To do so, go to the issues tab. After clicking on "New issue", select "New tutor
 To do so, go to the issues tab. After clicking on "New issue", select "Bug report". Fill out the blanks, and submit the issue. If we can find the bug, it will be fixed in the next release. After that, the issue is closed 
 
 
-If you know about how to make a proper pull request, you can make one in this repository. After that, wait for it to be merged. Make sure to create an issue before that
+If you know about how to make a proper pull request, you can make one in this repository. After that, wait for it to be merged. Make sure to create an issue before that.
+
+# Chat bases
+
+If you are a fan, feel free to join the <a href="https://discord.gg/nGasHWn7bF">fan discord</a>. If you have previously contributed to Educational Websites and any way, join the <a href="https://discord.gg/H3RcszvGpP">development discord</a>
