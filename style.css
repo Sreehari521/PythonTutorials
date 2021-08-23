@@ -1,0 +1,66 @@
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
+.header {
+    padding: 60px;
+    text-align: center;
+    background: url("Python.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #455f87;
+    color: white;
+    font-size: 30px;
+}
+  
+
+.content {
+    padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content>div{
+    height: 450px;
+}
+
+.project_thumbnail{
+    height: 200px;
+    width: 250px;
+}
+
+.project{
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    display: block;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+.project_name{
+    width: 50%;
+}
+a{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+.end{
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+.btn{
+    margin: 10px;
+}
+.txt{
+    margin: 10px;
+}
